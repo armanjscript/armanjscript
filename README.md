@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanjscript&label=Profile%20views&color=0e75b6&style=flat" alt="armanjscript" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hardcodee" target="blank"><img src="https://img.shields.io/twitter/follow/hardcodee?logo=twitter&style=for-the-badge" alt="hardcodee" /></a> </p>
+<p align="left"> <a href="https://x.com/HardCodeE" target="blank"><img src="https://img.shields.io/twitter/follow/hardcodee?logo=twitter&style=for-the-badge" alt="hardcodee" /></a> </p>
 
 - 🌱 I’m currently learning **how to build LLMs from scratch**
 
@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hardcodee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardcodee" height="30" width="40" /></a>
+<a href="https://x.com/HardCodeE" target="blank"><img align="center" src="https://github.com/ariyoaresa/ionicons/blob/main/src/svg/logo-x-twitter.svg" alt="hardcodee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/armandaneshdoost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armandaneshdoost" height="30" width="40" /></a>
 <a href="https://instagram.com/armandaneshdoost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armandaneshdoost" height="30" width="40" /></a>
 <a href="https://medium.com/@armandaneshdoost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@armandaneshdoost" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akademi_arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akademi_arman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@akademi_arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akademi_arman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
